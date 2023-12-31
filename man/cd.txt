@@ -1,0 +1,9 @@
+CD(1)                                                                                         
+NAME
+       cd - change the directiory
+
+SYNOPSIS
+       cd [DIRECTORY]
+
+DESCRIPTION
+       cd chages your current working directory to mentioned directory.
