@@ -1,0 +1,12 @@
+MYLS(1)
+NAME
+       myls - list directory contents
+
+SYNOPSIS
+       myls [OPTION]... [FILE]...
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+       Mandatory arguments to long options are mandatory for short options too.
+

@@ -1,0 +1,13 @@
+MYMV(1)
+NAME
+       mymv - move (rename) files
+
+SYNOPSIS
+       mymv [OPTION]... [-T] SOURCE DEST
+       mymv [OPTION]... SOURCE... DIRECTORY
+       mymv [OPTION]... -t DIRECTORY SOURCE...
+
+DESCRIPTION
+       Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
+
+       Mandatory arguments to long options are mandatory for short options too.

@@ -1,0 +1,13 @@
+MYCP(1)
+NAME
+       mycp - copy files and directories
+
+SYNOPSIS
+       mycp [OPTION]... [-T] SOURCE DEST
+       mycp [OPTION]... SOURCE... DIRECTORY
+       mycp [OPTION]... -t DIRECTORY SOURCE...
+
+DESCRIPTION
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.
+
+       Mandatory arguments to long options are mandatory for short options too.

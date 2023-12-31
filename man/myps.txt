@@ -1,0 +1,19 @@
+MYPS(1)
+NAME
+       myps - report a snapshot of the current processes.
+
+SYNOPSIS
+       myps [options]
+
+DESCRIPTION
+       myps displays information about a selection of the active processes.  If you want a repetitive update of the selection and the displayed information, use top instead.
+
+       This version of myps accepts several kinds of options:
+
+       1   UNIX options, which may be grouped and must be preceded by a dash.
+       2   BSD options, which may be grouped and must not be used with a dash.
+       3   GNU long options, which are preceded by two dashes.
+
+       Options of different types may be freely mixed, but conflicts can appear.  There are some synonymous options, which are functionally identical, due to the many standards and myps implementations that
+       this myps is compatible with.
+

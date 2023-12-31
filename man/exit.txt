@@ -1,0 +1,9 @@
+EXIT(1)
+NAME
+       exit - exit the terminal
+
+SYNOPSIS
+       exit
+
+DESCRIPTION
+       exit closes the current terminal, to return to the original terminal.
